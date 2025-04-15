@@ -19,3 +19,8 @@ The database is called, 'awesome chocolates' and entails sales comparison of des
 
 We are going to import all four tables
 ![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p3.png?raw=true)
+
+Since, some of the entries in 'Teams' columns are empty, so will skip those columns by clicking on 'Transform' Data option
+![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p4.png?raw=true)
+![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p5.png?raw=true)
+
