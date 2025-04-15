@@ -16,3 +16,6 @@ The database is called, 'awesome chocolates' and entails sales comparison of des
 
 ![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p2.png?raw=true)
 
+
+We are going to import all four tables
+![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p3.png?raw=true)
