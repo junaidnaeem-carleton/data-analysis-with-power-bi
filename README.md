@@ -10,7 +10,7 @@ The purpose of the project is to connect SQL with Power BI and use data import f
 
 
 
-The database is called, 'awesome chocolates' and entails sales comparison of desserts
+The database is called, 'awesome chocolates' and entails sales comparison of desserts sold across different regions
 
 
 
