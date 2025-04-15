@@ -29,3 +29,9 @@ First, let's calculate value brought by customers for each market and number of 
 
 Obtaining the result
 ![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p7.png?raw=true)
+
+Now, there ought to be a direct link with sales and product columns, so a new link is added in the scheme below
+![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p8.png?raw=true)
+
+Additionally, there is a need to compare the average cost incurred per box, and its sale price which would help us derive the profit gained per box
+![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p9.png?raw=true)
