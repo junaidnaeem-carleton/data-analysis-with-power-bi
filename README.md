@@ -26,3 +26,6 @@ Since, some of the entries in 'Teams' columns are empty, so will skip those colu
 
 First, let's calculate value brought by customers for each market and number of top selling items
 ![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p6.png?raw=true)
+
+Obtaining the result
+![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p7.png?raw=true)
