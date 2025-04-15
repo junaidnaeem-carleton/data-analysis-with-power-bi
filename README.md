@@ -33,7 +33,10 @@ Obtaining the result
 Now, there ought to be a direct link with sales and product columns, so a new link is added in the scheme below
 ![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p8.png?raw=true)
 
-Additionally, there is a need to compare the average cost incurred per box, and its sale price which would help us derive the profit gained per box
+Additionally, there is a need to compare the average cost incurred per box, and its sale price which would help us derive the profit gained per box for each region
 ![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p9.png?raw=true)
 ![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p10.png?raw=true)
 ![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p11.png?raw=true)
+
+The profit is comparable across regions but with Europe having a slight edge
+![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p12.png?raw=true)
