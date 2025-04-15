@@ -1,4 +1,4 @@
-# data-analysis-with-power-bi
+# Data-Analysis-with-Power-BI
 
 The purpose of the project is to connect SQL with Power BI and use data import feature to run calculations for analysis:
 
