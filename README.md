@@ -35,3 +35,5 @@ Now, there ought to be a direct link with sales and product columns, so a new li
 
 Additionally, there is a need to compare the average cost incurred per box, and its sale price which would help us derive the profit gained per box
 ![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p9.png?raw=true)
+![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p10.png?raw=true)
+![Query Output](https://github.com/junaidnaeem-carleton/data-analysis-with-power-bi/blob/main/p11.png?raw=true)
